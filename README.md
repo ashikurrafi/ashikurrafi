@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ashikur Rafi
+# Hi there 👋, my name is Ashikur Rafi
 
 Skills: C / C++ / C#
 
