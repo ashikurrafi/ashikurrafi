@@ -12,6 +12,5 @@ Skills: C / C++ / C#
 - Twitter: https://twitter.com/AshikurRafi
 - ⚡ Fun fact: I am a programmer and I have no life 
 
-![GitHub metrics](https://metrics.lecoq.io/ashikurrafi)  
 
 ![Profile views](https://gpvc.arturio.dev/ashikurrafi)  
