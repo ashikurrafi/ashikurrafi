@@ -13,4 +13,4 @@ Skills: C / C++ / C#
 - ⚡ Fun fact: I am a programmer and I have no life 
 
 
-![Profile views](https://gpvc.arturio.dev/ashikurrafi)  
+//![Profile views](https://gpvc.arturio.dev/ashikurrafi)  
