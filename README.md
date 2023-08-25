@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/ashikur_rafii//)](https://www.instagram.com/https://www.instagram.com/ashikur_rafii/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashikurrafi@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/ashikurrafi?label=Follow&style=social)](https://github.com/ashikurrafi)
 
 "👋 Hello there! I'm a versatile software developer with expertise in web development, machine learning, and software engineering. My GitHub hosts diverse projects, from full-stack web apps to code snippets. I'm committed to clean code, best practices, and creating exceptional user experiences. Feel free to explore my work and let's collaborate on innovative solutions! 🚀💻🌟"
 
